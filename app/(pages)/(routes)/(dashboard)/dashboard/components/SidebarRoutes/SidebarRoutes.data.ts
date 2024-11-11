@@ -1,19 +1,32 @@
-import { Calendar, Car } from "lucide-react";
+import { Calendar, Car, Heart, Settings, ClipboardList } from "lucide-react";
 
 export const dataGeneralSidebar = [
   {
     icon: Car,
-    label: "Cars",
+    label: "Coches",
     href: "/dashboard",
   },
   {
     icon: Calendar,
-    label: "Cars Reserves",
+    label: "Reserva de coches",
     href: "/reserves",
   },
   {
-    icon: Car,
-    label: "Cars",
+    icon: Heart,
+    label: "Coches Favoritos",
     href: "/loved-cars",
+  },
+];
+
+export const dataAdminSidebar = [
+  {
+    icon: Settings,
+    label: "Administrar Coches",
+    href: "dashboard/admin/cars-manager",
+  },
+  {
+    icon: ClipboardList,
+    label: "Todas las reservas",
+    href: "/all-reserves",
   },
 ];
