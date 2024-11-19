@@ -27,6 +27,6 @@ export const dataAdminSidebar = [
   {
     icon: ClipboardList,
     label: "Todas las reservas",
-    href: "/all-reserves",
+    href: "dashboard/admin/reserves-admin",
   },
 ];
