@@ -62,6 +62,6 @@ Para más detalles sobre cómo utilizar las tecnologías y herramientas menciona
 
 ## 🧑‍🎓 Proyecto Universitario
 
-Este proyecto es un trabajo universitario realizado por Santiago Ruiz, Diego Pinilla y Cristian Pinilla. Está diseñado para ofrecer una experiencia práctica y completa en el desarrollo de aplicaciones modernas utilizando tecnologías avanzadas.
+Este proyecto es un trabajo universitario realizado por Santiago Ruiz y Elizabet Rodriguez. Está diseñado para ofrecer una experiencia práctica y completa en el desarrollo de aplicaciones modernas utilizando tecnologías avanzadas.
 
 ¡Espero que disfrutes del proyecto y encuentres útil esta aplicación de alquiler de coches!
